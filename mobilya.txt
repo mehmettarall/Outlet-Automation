@@ -1,0 +1,2 @@
+{'Ürün Numarasý': 7685, 'Ürünün Ýsmi': 'Yatak', 'Ürünün Ortalama Aðrýlýðý': 200, 'Ürünün Rengi': 'Pembe', 'Ürünün Üretim Yýlý': '2021', 'Ürünün Ücreti': '4000'}
+{'Ürün Numarasý': 1226, 'Ürünün Ýsmi': 'sa', 'Ürünün Ortalama Aðrýlýðý': 850, 'Ürünün Rengi': 'sarý', 'Ürünün Üretim Yýlý': '2096', 'Ürünün Ücreti': '5870'}

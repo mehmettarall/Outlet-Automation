@@ -1,0 +1,3 @@
+{'Ürün Numarasý': 454, 'Ürünün Ýsmi': 'Bulaþýk Makinesi', 'Ürünün Ortalama Aðrýlýðý': 5000, 'Ürünün Rengi': 'Kýrmýzý', 'Ürünün Üretim Yýlý': '2020', 'Ürünün Ücreti': '150.000'}
+{'Ürün Numarasý': 189, 'Ürünün Ýsmi': 'Buzdolabý', 'Ürünün Ortalama Aðrýlýðý': 30000, 'Ürünün Rengi': 'Beyaz', 'Ürünün Üretim Yýlý': '2019', 'Ürünün Ücreti': '3500'}
+{'Ürün Numarasý': 214, 'Ürünün Ýsmi': 'bulaþýk makinasý', 'Ürünün Ortalama Aðrýlýðý': 9000, 'Ürünün Rengi': 'pembiþ', 'Ürünün Üretim Yýlý': '2098', 'Ürünün Ücreti': '45000'}
